@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Models",
+    "\\Models\\Product",
+    "\\Views",
+    "\\Views\\Shared",
+    "\\Views\\Shared\\Components",
+    "\\Views\\Shared\\Components\\LoaiSpMenu"
+  ],
+  "SelectedNode": "\\Models\\TChiTietSanPham.cs",
+  "PreviewInSolutionExplorer": false
+}

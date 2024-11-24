@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project Net\\ThucHanhWebMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:models\\product\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\controllers\\accesscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:controllers\\accesscontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\_layout1ogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\_layout1ogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\models\\tchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:models\\tchitietsanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\viewmodel\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:viewmodel\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|d:\\project net\\thuchanhwebmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0A6EA380-220A-4458-9FF7-15408656686F}|ThucHanhWebMVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T14:42:34.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "Controllers\\HomeController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:54:39.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartialSanpham.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\PartialSanpham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PartialSanpham.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\PartialSanpham.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PartialSanpham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-12T14:33:26.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:03:24.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductAPIController.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:21:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILoaiSpRepository.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Repository\\ILoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ILoaiSpRepository.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Repository\\ILoaiSpRepository.cs",
+              "RelativeToolTip": "Repository\\ILoaiSpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:22:15.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoaiSpRepository.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Repository\\LoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\LoaiSpRepository.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Repository\\LoaiSpRepository.cs",
+              "RelativeToolTip": "Repository\\LoaiSpRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:26:24.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "Models\\Authentication\\Authentication.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "Models\\Authentication\\Authentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:41:17.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLBanVaLiContext.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Models\\QLBanVaLiContext.cs",
+              "RelativeDocumentMoniker": "Models\\QLBanVaLiContext.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Models\\QLBanVaLiContext.cs",
+              "RelativeToolTip": "Models\\QLBanVaLiContext.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:16:02.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Models\\Product\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product\\Product.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Models\\Product\\Product.cs",
+              "RelativeToolTip": "Models\\Product\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:26:10.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "Models\\TDanhMucSp.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "Models\\TDanhMucSp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBYwBsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:26:17.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv38AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T14:10:38.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccessController1.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\AccessController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccessController1.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Controllers\\AccessController1.cs",
+              "RelativeToolTip": "Controllers\\AccessController1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T15:34:22.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout1Ogani.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_Layout1Ogani.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout1Ogani.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_Layout1Ogani.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout1Ogani.cshtml",
+              "ViewState": "AgIAAF4AAAAAAAAAAIBJwHYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T02:36:47.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ThemSanPham.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\ThemSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T02:38:00.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:49:48.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Access\\Login.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "Views\\Access\\Login.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAIBJwBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T15:35:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAEBVwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:58:58.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:46:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-16T13:45:02.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T14:14:02.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:00:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T14:34:20.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TChiTietSanPham.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Models\\TChiTietSanPham.cs",
+              "RelativeDocumentMoniker": "Models\\TChiTietSanPham.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Models\\TChiTietSanPham.cs",
+              "RelativeToolTip": "Models\\TChiTietSanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:11:49.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-08T16:27:35.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-13T13:57:22.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T13:32:14.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T15:05:02.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T14:55:00.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeProductDetailViewmodel.cs",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\ViewModel\\HomeProductDetailViewmodel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\HomeProductDetailViewmodel.cs",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\ViewModel\\HomeProductDetailViewmodel.cs",
+              "RelativeToolTip": "ViewModel\\HomeProductDetailViewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:05:58.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T06:18:33.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:35:53.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T15:25:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Project Net\\ThucHanhWebMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Project Net\\ThucHanhWebMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T15:35:55.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
